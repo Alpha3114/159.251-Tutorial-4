@@ -4,6 +4,6 @@ class Calc{
 		return i+j;
 	}
 	static int subtract(int i, int j){
-		return i+j;
+		return i-j;
 	}
 }
